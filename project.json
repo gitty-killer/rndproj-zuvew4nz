@@ -1,6 +1,6 @@
 {
-  ""name"": ""rndproj-zuvew4nz"",
-  ""goal"": ""dataset sampler for reporting"",
-  ""language"": ""python"",
-  ""template"": ""python-etl""
+    "name":  "rndproj-zuvew4nz",
+    "goal":  "dataset sampler for reporting",
+    "language":  "python",
+    "template":  "python-etl"
 }
